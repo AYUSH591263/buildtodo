@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buildtodo/static/css/main.7c746565.css",
+    "main.js": "/buildtodo/static/js/main.7bad77cf.js",
+    "static/js/592.ca4c2084.chunk.js": "/buildtodo/static/js/592.ca4c2084.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/buildtodo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/buildtodo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/buildtodo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/buildtodo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/buildtodo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/buildtodo/index.html",
+    "main.7c746565.css.map": "/buildtodo/static/css/main.7c746565.css.map",
+    "main.7bad77cf.js.map": "/buildtodo/static/js/main.7bad77cf.js.map",
+    "592.ca4c2084.chunk.js.map": "/buildtodo/static/js/592.ca4c2084.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c746565.css",
+    "static/js/main.7bad77cf.js"
+  ]
+}
